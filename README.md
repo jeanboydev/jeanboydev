@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode">
     <img src="https://img.shields.io/badge/🔥%20Android-Notes-brightness.svg"
-  </a >  
+  </a>  
   <a href="https://github.com/jeanboydev">
     <img src="https://komarev.com/ghpvc/?username=jeanboydev&color=brightgreen" />
   </a>  
