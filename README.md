@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode">
-    <img src="https://img.shields.io/badge/🔥%20Android-Notes-brightness.svg"
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Android-ReadTheFuckingSourceCode-brightgreen"
   </a>  
   <a href="https://github.com/jeanboydev">
     <img src="https://komarev.com/ghpvc/?username=jeanboydev&color=brightgreen" />
